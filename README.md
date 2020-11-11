@@ -3,7 +3,7 @@
 Datasets from [CPMP-Tools](https://www.core-plusmath.org/CPMP-Tools/) extracted and reformatted as .tsv files for use in other applications.
 
 ## Usage
-All of the original `.cmt` files have been included in the `data` folder.
+All of the original `.cmt` files from CPMP-Tools 4.0 have been included in the `data` folder.
 The new, converted `.tsv` files are in the `tsv/` folder.
 
 Essentially, this boiled down to removing the "header" information from the cmt files:
@@ -19,5 +19,7 @@ Eventually, this information will be used to generate an index of all of the dat
 You can generate the `.tsv` files for yourself by using the included `converter.py`.
 
 ## License
+
+CPMP-Tools (C) 2012 B. A. Keller, Michigan State University and the Core-Plus Mathematics Project, Western Michigan University.
 
 CPMP-Tools is released under the GPLv2. These reformatted datasets are also available under GPLv2. See [LICENSE.md](LICENSE.md) for a copy of the license.
