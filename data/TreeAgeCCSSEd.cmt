@@ -1,0 +1,25 @@
+# Data Analysis
+#These values are based on real data that show the diameter (in cm) of 20 large trees in a Brazilian rain forest. The age (in years) of each tree was determined using carbon-14 dating.
+Tree Age
+dC dC
+Diameter (in cm)	Age (in years)
+85	260
+96	240
+100	911
+104	349
+109	185
+110	575
+111	364
+115	521
+118	266
+120	1,177
+133	240
+139	590
+140	735
+141	524
+142	671
+150	565
+156	576
+178	468
+180	1,383
+220	849

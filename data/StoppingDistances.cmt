@@ -1,0 +1,16 @@
+# Data Analysis
+#Braking distances at 30 mph and 60 mph for 10 cars of two different models.
+#Source:  Navigating through data analysis in Grades 6Ð8 (CD ROM).  Bright, G. (2003).  Reston, VA: NCTM. 
+Stopping Distances
+s iC IC s s iC iC 
+Small Sedan	At 30 mph	At 60 mph	D	Large Sedan	At 30 mph	At 60 mph	
+Car  1	65	155	.	Car  1	70	161	
+Car  2	63	147	.	Car  2	53	130	
+Car  3	68	146	.	Car  3	61	135	
+Car  4	67	154	.	Car  4	64	160	
+Car  5	65	151	.	Car  5	76	168	
+Car  6	58	145	.	Car  6	55	137	
+Car  7	67	125	.	Car  7	80	139	
+Car  8	57	148	.	Car  8	54	133	
+Car  9	66	147	.	Car  9	60	137	
+Car 10	68	154	.	Car 10	52	138	

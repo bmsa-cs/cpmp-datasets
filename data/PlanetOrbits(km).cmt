@@ -1,0 +1,13 @@
+# Data Analysis
+#Data in the table above show the relationship between distance from the Sun (in millions of kilometers) and orbit time (in Earth years) for the major planets of our solar system. (Source: http://en.wikipedia.org/wiki/Distance_of_planets_to_the_Sun)
+Planet Orbits
+sL dC dC 
+Planet	Half Length of Longer Axis	Orbit Time
+Mercury	57.9	0.241
+Venus	108.2	0.615
+Earth	149.6	1.00
+Mars	227.9	1.88
+Jupiter	778.4	11.9
+Saturn	1,426.7	29.5
+Uranus	2,871.0	84.0
+Neptune	4,498.3	165

@@ -1,0 +1,9 @@
+# Data Analysis
+#North Carolina keeps track of traffic accidents. The table above shows all 150 crashes in 2010 involving both a teen driver and a death. The accidents are sorted on two variables, whether alcohol was involved and whether the accident was in town or near town. (Source: buffy.hsrc.unc.edu/crash/datatool.cfm)
+North Carolina Traffic Accidents
+L C C C
+A	B	C	D
+	In Town	Near Town	Total
+No Alcohol Involved	30	91	121
+Alcohol Involved	10	19	29
+Total	40	110	150

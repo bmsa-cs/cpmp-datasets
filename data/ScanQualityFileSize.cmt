@@ -1,0 +1,16 @@
+# Data Analysis
+#These data show file sizes (in MB) for a document scanned at different resolutions (in dots per inch, DPI).
+Scan Quality and File Size
+C0 C
+Scan Quality (in DPI)	File Size (in MB)
+50	0.07
+96	0.19
+150	0.46
+200	0.98
+240	1.32
+350	3.28
+400	5.01
+600	12.6
+720	18.3
+800	22.5
+1200	46.1

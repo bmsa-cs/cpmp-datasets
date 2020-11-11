@@ -1,0 +1,12 @@
+# Data Analysis
+#These data show experimental measurements of decay over time for a radioactive chemical, given by amount left (in grams) at various times (in days).
+Radioactive Isotope
+C0 C1 
+Time (in days)	Amount Left (in grams)
+0	5
+1	4.8
+3	4.3
+5	3.9
+7	3.5
+10	3.0
+20	1.8

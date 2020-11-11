@@ -1,0 +1,13 @@
+# Data Analysis
+#This table shows the ages of the male and female actors who got regular roles in pilot shows for new television series, for those actors whose age could be determined (which was all but 8 males and 5 females). (Source: James J. Jones, The 2011 Pilot Report, Premier Talent Group, f.cl.ly/items/3q1v2Z1W0Z3N19003839/PTG-2011-Pilot-Report.pdf)
+Pilot TV Roles
+C C C 
+Age	Number of Males	Number of Females	
+0Ð9	13	7	
+10Ð19	31	29	
+20Ð29	73	95	
+30Ð39	116	88	
+40Ð49	52	21	
+50Ð59	33	19	
+60 and over	13	10	
+Total	331	269	

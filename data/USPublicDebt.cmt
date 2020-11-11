@@ -1,0 +1,14 @@
+# Data Analysis
+#These data give the cumulative public debt (in billions of dollars) of the United States government at five-year intervals since 1970. (Source: U.S. Department of the Treasury, The Public Debt Online.)
+U.S. Public Debt
+C0 C0 
+Time Since 1970 (in years)	Debt (in billions of $)
+0	389
+5	577
+10	930
+15	1,946
+20	3,266
+25	4,974
+30	5,674
+35	7,933
+40	13,203

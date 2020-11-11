@@ -1,0 +1,10 @@
+# Data Analysis
+#These data show the yearly expected depreciation for a new 2012 FIAT 500 that had a MSRP (Manufacturer’s Suggested Retail Price) of $19,200. (Source: www.nadaguides.com/Cars/2012/FIAT/500/2dr-HB-Lounge/Cost-to-Own/, November 16, 2012)
+Car Depreciation
+dC dC
+End-of-Year	Depreciation (in $)
+1	5,818
+2	1,818
+3	1,623
+4	1,472
+5	1,277

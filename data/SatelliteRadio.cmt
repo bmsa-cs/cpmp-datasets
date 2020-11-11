@@ -1,0 +1,18 @@
+# Data Analysis
+#These data show the number of Sirius satellite radio customers (in millions) at the end of each quarter year from the beginning of 2004 to the end of 2006. (Source: en.wikipedia.org/wiki/Sirius_Satellite_Radio)
+Satellite Radio Subscribers
+C0 C1
+Quarter Years	Subscribers
+0	0.3
+1	0.4
+2	0.5
+3	0.7
+4	1.0
+5	1.4
+6	1.8
+7	2.1
+8	3.3
+9	4.0
+10	4.7
+11	5.0
+12	6.0

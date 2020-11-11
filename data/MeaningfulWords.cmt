@@ -1,0 +1,21 @@
+# Data Analysis
+#Two lists of 20 three-letter "words".  One list contained meaningful words (e.g., CAT, DOG), whereas the other list contained nonsense words (e.g., ATC, ODG). A ninth-grade class of thirty students was randomly divided into two groups of fifteen students. One group was asked to memorize the list of meaningful words; the other group was asked to memorize the list of nonsense words. The number of words correctly recalled by each student was tabulated.
+#Source: Focus in High School Mathematics: Reasoning and Sense Making. Reston, Va.: NCTM, 2009.
+Meaningful Words
+iC iC
+Meaning	Nonsense	
+12	4		
+15	6		
+12	6		
+12	5		
+10	7		
+3	5		
+7	4		
+11	7		
+9	9		
+14	10		
+9	4		
+10	8		
+9	7		
+5	3		
+13	2		

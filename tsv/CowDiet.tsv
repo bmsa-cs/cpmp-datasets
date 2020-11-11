@@ -1,0 +1,8 @@
+A	B	C	D	E	F	
+	Alfalfa Hay	Corn Grain	Total	.	.	
+Number of bags	1	1	=sum(B2:C2)	.	.	
+Cost per bag	20	14	=B3*$B$2+C3*$C$2	.	.	
+.	.	.	.	.	.	
+.	Alfalfa Hay	Corn Grain	.	.	.	
+Crude Protein (CP)	15	10	=B6*$B$2+C6*$C$2	>=	160	
+Total Digestible Nutrients (TDN)	50	80	=B7*$B$2+C7*$C$2	>=	1000	

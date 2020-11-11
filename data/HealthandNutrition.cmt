@@ -1,0 +1,13 @@
+# Data Analysis
+#The data in the table show how average daily food supply (in calories) is related to life expectancy (in years) and infant mortality rates (in deaths per 1,000 births) in a sample of countries in the western hemisphere. (Source: World Health Organization Global Health Observatory Data Repository; faostat3.fao.org)
+Health and Nutrition
+s iC iC iC
+Country	Daily Calories	Life Expectancy	Infant Mortality
+Argentina	2,918	75	13
+Bolivia	2,172	68	39
+Canada	3,399	81	5
+Dominican Republic	2,491	71	21
+Haiti	1,979	62	53
+Mexico	3,146	76	13
+Paraguay	2,518	74	19
+United States	3,688	79	6

@@ -1,0 +1,6 @@
+# Data Analysis
+#These data show the maximum length (in feet) and weight (in pounds) for select type of seals. (Source: "Grzimek's Encyclopedia, Mammals" V4. New York: McGraw-Hill, 1990.)
+Seal Sizes
+sL dC iC
+Name of Seal	Length (in ft)	Weight (in lbs)
+Crabeater	8.5	496Harbor	6.6	375Hooded	10.0	900Monk	9.2	881Weddell	9.5	1,323

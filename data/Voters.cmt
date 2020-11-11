@@ -1,0 +1,16 @@
+# Data Analysis
+#The table above shows the number of votes cast in a sample of U.S. Presidential elections between 1840 and 2008. (Source: uselectionatlas.org/RESULTS)
+U.S. Presidential Election Voters
+sC iC	sC iC
+Year	Years since 1840	Major Party Candidates	Total Votes Cast
+1840	0	Harrison vs. Van Buren	2,412,694
+1860	20	Lincoln vs. Douglas	4,681,267
+1880	40	Garfield vs. Hancock	9,217,410
+1900	60	McKinley vs. Bryan	13,997,429
+1920	80	Harding vs. Cox	26,765,180
+1940	100	Roosevelt vs. Willkie	49,902,113
+1960	120	Kennedy vs. Nixon	68,832,482
+1980	140	Reagan vs. Carter	86,509,678
+2000	160	Bush vs. Gore	105,417,475
+2004	164	Bush vs. Kerry	122,293,548
+2008	168	Obama vs. McCain	131,463,122

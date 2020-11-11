@@ -1,0 +1,15 @@
+# Data Analysis
+#Chrysanthemums with long stems are likely to have smaller flowers than chrysanthemums with shorter stems. An experiment was conducted at the University of Florida to compare growth inhibitors designed to reduce the length of the stems, and so increase the size of the flowers. Growth inhibitor A was given to 10 randomly selected plants and growth inhibitor B was given to the remaining 10 plants. The plants were grown under nearly identical conditions, except for the growth inhibitor used. The table gives the amount of growth during the subsequent 10 weeks. (Source: Watkins, A. E, Scheaffer, R. L. and G. W. Cobb, Statistics in Action, Key Curriculum Press, 2004, p. 681.)
+Plant Growth by Inhibitor
+dC dC
+Inhibitor A (Growth, cm)	Inhibitor B (Growth, cm)
+46	51
+41.5	55
+45	57
+44	57.5
+41.5	53
+50	45.5
+45	53
+43	54.5
+44	55.5
+30.5	45.5

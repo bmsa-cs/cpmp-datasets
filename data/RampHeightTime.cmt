@@ -1,0 +1,11 @@
+# Data Analysis
+#These data give the run times (in seconds) for a ball rolling down an adjustable ramp at various heights (in feet).
+Ramp Height and Run Time
+C0 C2 
+Ramp Height (in ft)	Run Time (in sec)
+2	2.82
+4	2.0
+6	1.63
+8	1.41
+10	1.26
+12	1.15

@@ -1,0 +1,10 @@
+# Data Analysis
+#In 1972, 48 male bank supervisors were each given a personnel file and asked to judge whether the person represented in the file should be recommended for promotion or whether the person’s file should be held.  The files were identical except that half of the files were labeled Male and the other half Female. 
+#Source:  Navigating through data analysis in Grades 9-12 (CD ROM).  2003.  Reston, VA: NCTM. 
+Bank Supervisors
+s iC iC iC 
+A	B	C	D	
+	Promote	No Promote	Total	
+Male	21	3	24	
+Female	14	10	24	
+Total	24	13	48	

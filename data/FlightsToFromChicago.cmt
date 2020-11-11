@@ -1,0 +1,15 @@
+# Data Analysis
+#These data show published distance (in miles) and time (in minutes) for a sample of United Airlines nonstop flights to and from Chicago, Illinois. (Source: www.uatimetable.com)
+Flights to/from Chicago
+s iC iC iC
+City	Distance (in miles)	Westbound (in min)	Eastbound (in min)
+Boise, ID	1,435	220	190
+Boston, MA	865	160	140
+Cedar Rapids, IA	195	55	55
+Frankfurt, Germany	4,335	550	490
+Hong Kong	7,790	950	850
+Las Vegas, NV	1,510	230	210
+Paris, France	4,145	570	500
+Pittsburgh, PA	410	95	85
+San Francisco, CA	1,845	275	245
+Tokyo, Japan	6,265	790	685

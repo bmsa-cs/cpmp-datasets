@@ -1,0 +1,13 @@
+# Data Analysis
+#When police investigate the scene of an automobile accident, they look for skid marks and use the length of those marks to estimate the speed at which the car was traveling. The results of experiments with a test car, giving skid mark length (in feet) and speed (in miles per hour), are shown here.
+Car Skid Marks and Speeds
+dC dC 
+Skid Mark Length (in ft)	Speed (in mph)
+5	10
+17	20
+37	30
+65	40
+105	50
+150	60
+205	70
+265	80

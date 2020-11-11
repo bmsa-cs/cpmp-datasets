@@ -1,0 +1,9 @@
+# Data Analysis
+#Researchers wanted to establish whether irritable bowel syndrome (IBS) and generalized anxiety disorder (GAD) are associated maladies. They collected the information above from a random sample of 2,005 people contacted by phone. (Source: S. Lee et al. Irritable Bowel Syndrome Is Strongly Associated with Generalized Anxiety Disorder: A Community Study, Alimentary Pharmacology & Therapeutics, Vol. 30, 2009, pp. 643Ð651; onlinelibrary.wiley.com/doi/10.1111/j.1365-2036.2009.04074.x/full#t1)
+IBS and Anxiety
+L C C C 
+A	B	C	D	
+	GAD	No GAD	Total	
+IBS	18	91	109	
+No IBS	63	1,833	1,896	
+Total	81	1,924	2,005	

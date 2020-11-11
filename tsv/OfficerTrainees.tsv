@@ -1,0 +1,5 @@
+A	B	C	D	
+	Orthotics	No Orthotics	Total	
+Injured	21	61	=sum(B2:C2)	
+Not Injured	179	139	=sum(B3:C3)	
+Total	200	200	=sum(B4:C4)	

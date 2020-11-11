@@ -1,0 +1,13 @@
+# Data Analysis
+#Example of a nonlinear data set.
+Nonlinear (x,y) Values II
+d d d d d d 
+A	B	C	D	E	F	
+Part a	.	Part b	.	Part c	.	
+x	y	x	y	x	y	
+0	3	5	6	0	4	
+2	7	7	4.8	3	8	
+4	15	11	3.1	6	22	
+6	35	14	2.3	9	45	
+8	75	17	1.7	12	75	
+10	175	24	0.8	15	115	

@@ -1,0 +1,19 @@
+# Data Analysis
+#The above data sheet shows the results of two polls of random samples of high school seniors and juniors, who were asked if they approve of, disapprove of, or do not care about the proposed location for the homecoming dance.
+Poll I and Poll II
+L C C
+A	B	C
+Poll I		
+	Seniors	Juniors
+Approve	10	12
+Disapprove	30	32
+Do Not Care	60	56
+Total	100	100
+		
+		
+Poll II		
+	Seniors	Juniors
+Approve	1,000	1,200
+Disapprove	3,000	3,200
+Do Not Care	6,000	5,600
+Total	10,000	10,000

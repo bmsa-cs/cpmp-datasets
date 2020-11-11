@@ -1,0 +1,9 @@
+# Data Analysis
+#A random sample of people age 18 and older who said they were planning a vacation this summer were asked if they would bring a laptop computer with them. (Source: Frequencies estimated from The Harris Poll, Americans Work on Their Vacation, 2011)
+Laptop on Vacation
+L C C C
+A	B	C	D
+	Male	Female	Total
+Bringing a Laptop	354	307	661
+Not Bringing a Laptop	356	320	676
+Total	710	627	1,337

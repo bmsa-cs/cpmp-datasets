@@ -1,0 +1,15 @@
+# Data Analysis
+#In one popular game, a fair die is rolled to find out whether you win a prize. Rules of the game are:
+#  ¥ You win a $4 prize if the top face of the die is a 4.
+#  ¥ You donate $1 to the school special project fund if the top face of the die 
+#     is 1, 2, 3, 5, or 6.
+#The cumulative profit (in dollars) for a number of trials is given in the table above.
+Taking Chances
+i i
+Number of Trials	Cumulative Profit (in $)
+20	3
+40	7
+60	11
+80	13
+100	15
+120	19

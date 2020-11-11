@@ -1,0 +1,14 @@
+# Data Analysis
+#These data provide the median incomes (in dollars) for men and women employed full-time outside the home from 1970 to 2009. They do not show pay for comparable jobs, but median pay for all jobs. (Source: www.census.gov/hhes/www/income/data/historical/people/index.html)
+Median Income
+dC dC dC
+Years Since 1970	Men (in $)	Women (in $)
+0	9,184	5,440
+5	12,934	7,719
+10	19,173	11,591
+15	24,999	16,252
+20	28,979	20,591
+25	32,199	23,777
+30	38,891	29,123
+35	42,188	33,256
+39	49,164	37,234

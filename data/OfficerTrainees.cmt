@@ -1,0 +1,9 @@
+# Data Analysis
+#Injuries of the leg, knee, and foot are common in people who do a lot of running, such as military recruits undergoing basic training. Researchers wanted to know whether foot orthotics, shoe inserts custom-molded to the person�s foot and fitted by a specialist, might help prevent such injuries. Four hundred military officer trainees were identified as medium or high risk for leg, knee, or foot injury on the basis of gait assessment measured on a test track. They were randomly split into two groups. One  group got custom orthotics and the other did not. After seven weeks of basic training, 21 of the 200 who had received custom orthotics had a leg, knee, or foot injury that required that he or she stop physical training for two or more days. Sixty-one of the 200 who did not get orthotics had such injuries. (Source: Andrew Franklyn-Miller, et al. "Foot Orthoses in the Prevention of Injury in Initial Military Training: A Randomized Controlled Trial," American Journal of Sports Medicine, Vol. 39, 2011, pp. 30�37.)
+Officer Trainees
+L C C C0 
+A	B	C	D	
+	Orthotics	No Orthotics	Total	
+Injured	21	61	=sum(B2:C2)	
+Not Injured	179	139	=sum(B3:C3)	
+Total	200	200	=sum(B4:C4)	

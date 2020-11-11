@@ -1,0 +1,13 @@
+# Data Analysis
+#The table above shows the distribution of scores on the SAT Mathematics test for 2011 college-bound seniors. (Source: 2011 College-Bound Seniors Total Group Report, College Board, professionals.collegeboard.com/profdownload/cbs2011_total_group_report.pdf)
+SAT Math Scores
+L C C
+A	B	C
+Score	Number of Students	Proportion of Students
+700-800	111,893	0.0679
+600-690	304,037	0.1846
+500-590	481,170	0.2921
+400-490	498,944	0.3029
+300-390	210,645	
+200-290	40,434	
+Total	1,647,123	1.0000

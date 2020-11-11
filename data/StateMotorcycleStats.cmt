@@ -1,0 +1,57 @@
+# Data Analysis
+#These data show the helmet requirement, total number of motorcycle registrations, and fatalities by state. (Source: U.S. Federal Highway Administration)
+2000 State Motorcycle Statistics
+sL sC iC iC
+State	Required Helmets	Registrations	Fatalities
+Alabama	Y	54,000	43
+Alaska	N	16,000	6
+Arizona	N	164,000	90
+Arkansas	N	25,000	27
+California	Y	434,000	276
+Colorado	N	98,000	73
+Connecticut	N	54,000	50
+Delaware	N	11,000	5
+District of Columbia	Y	1,000	8
+Florida	N	249,000	259
+Georgia	Y	87,000	61
+Hawaii	N	20,000	18
+Idaho	N	42,000	18
+Illinois	N	195,000	126
+Indiana	N	117,000	70
+Iowa	N	126,000	32
+Kansas	N	50,000	21
+Kentucky	Y	44,000	38
+Louisiana	N	48,000	57
+Maine	N	29,000	18
+Maryland	Y	49,000	50
+Massachusetts	Y	107,000	33
+Michigan	Y	182,000	86
+Minnesota	N	143,000	37
+Mississippi	Y	32,000	22
+Missouri	Y	61,000	44
+Montana	N	26,000	13
+Nebraska	Y	21,000	3
+Nevada	Y	24,000	21
+New Hampshire	N	49,000	27
+New Jersey	Y	111,000	56
+New Mexico	N	28,000	26
+New York	Y	106,000	119
+North Carolina	Y	82,000	91
+North Dakota	N	17,000	4
+Ohio	N	254,000	126
+Oklahoma	N	57,000	25
+Oregon	Y	69,000	37
+Pennsylvania	N	215,000	149
+Rhode Island	N	19,000	12
+South Carolina	N	51,000	57
+South Dakota	N	29,000	20
+Tennessee	Y	71,000	70
+Texas	N	182,000	227
+Utah	N	28,000	24
+Vermont	Y	22,000	6
+Virginia	Y	60,000	43
+Washington	Y	118,000	37
+West Virginia	Y	26,000	17
+Wisconsin	N	179,000	78
+Wyoming	N	19,000	6
+

@@ -1,0 +1,11 @@
+# Data Analysis
+#Cold surgery, where body temperature is in degrees F, brain activity is a percent of normal, and safe operating time is in minutes (Source: USA Today, August 1, 2001, page 8Dâ "Surgery's Chilling Future Will Put Fragile Lives on Ice" by Dan Vergano. His data source was Jock McCullough, et. al. Annals of Thoracic Surgery.)
+Cold Surgery
+dC iC iC
+Body Temperature (in F)	Brain Activity	Safe Operating Time (in min)
+50	11	45
+59	16	31
+68	24	21
+77	37	14
+86	52	9
+98.6	100	5

@@ -1,0 +1,10 @@
+# Data Analysis
+#Artificial turf on athletic fields was first introduced in the 1960s. Its safety has been controversial since then. One issue that has been investigated is whether injuries of football players tend to be more serious on artificial turf than on grass. A study followed 24 NCAA division 1A college football teams over three seasons. (Source: Michael C. Meyers, ÒIncidence, Mechanisms, and Severity of Game-Related College Football Injuries on FieldTurf Versus Natural Grass: A 3-Year Prospective Study,Ó American Journal of Sports Medicine, Vol. 38, 2010, pp. 687Ð697.)
+Artificial Turf Injuries
+L C C 
+A	B	C	
+	FieldTurf	Grass	
+Minor	875	938	
+Substantial	114	169	
+Severe	61	96	
+Total	1,050	1,203	

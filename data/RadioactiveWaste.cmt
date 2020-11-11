@@ -1,0 +1,14 @@
+# Data Analysis
+#Data from a study of nine Oregon communities in the 1960s when nuclear power was relatively new. The study compared exposure to radioactive waste from a nuclear reactor in Hanford, Washington and the rate of deaths due to cancer in these communities. The cancer deaths are per 100,000 residents. (Source: "Journal of Environmental Health," May-June 1965.)
+Radioactive Waste Exposure
+sL dC iC
+County	Index of Exposure	Cancer Deaths (per 100,000)
+Umatilla	2.5	147
+Morrow	2.6	130
+Gilliam	3.4	130
+Sherman	1.3	114
+Wasco	1.6	138
+Hood river	3.8	162
+Portland	11.6	208
+Columbia	6.4	178
+Clatsop	8.3	210

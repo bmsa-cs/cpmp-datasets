@@ -1,0 +1,39 @@
+# Data Analysis
+#These data show the mean times (in seconds) to walk 60 feet in various cities of the world. (Source: www.britishcouncil.org/paceoflife.pdf)
+Walking Speeds
+sL dC
+City	Time (in seconds)
+Singapore (Singapore)	10.55
+Copenhagen (Denmark)	10.82
+Madrid (Spain)	10.89
+Guangzhou (China)	10.94
+Dublin (Ireland)	11.03
+Curitiba (Brazil)	11.13
+Berlin (Germany)	11.16
+New York (USA)	12.00
+Utrecht (Netherlands)	12.04
+Vienna (Austria)	12.06
+Warsaw (Poland)	12.07
+London (United Kingdom)	12.17
+Zagreb (Croatia)	12.20
+Prague (Czech Republic)	12.35
+Wellington (New Zealand)	12.62
+Paris (France)	12.65
+Stockholm (Sweden)	12.75
+Ljubljana (Slovenia)	12.76
+Tokyo (Japan)	12.83
+Edinburgh (United Kingdom)	13.29
+Ottawa (Canada)	13.72
+Harare (Zimbabwe)	13.92
+Sofia (Bulgaria)	13.96
+Taipei (Taiwan)	14.00
+Cairo (Egypt)	14.18
+Sana’a (Yemen)	14.29
+Bucharest (Romania)	14.36
+Dubai (UAE)	14.64
+Damascus (Syria)	14.94
+Amman (Jordan)	15.95
+Cardiff (United Kingdom)	16.81
+Bern (Switzerland)	17.37
+Manama (Bahrain)	17.69
+Blantyre (Malawi)	31.60

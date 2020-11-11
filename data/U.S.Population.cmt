@@ -1,0 +1,22 @@
+# Spreadsheet
+#This spreadsheet models U.S. population (in millions) assuming a constant growth rate and migration rate.
+U.S. Population
+C0 C1 C
+A	B	C
+Year	Population (in millions)	Natural Growth Rate
+2010	308.7	1.05
+2020	=C$2*B2+C$4	Migration Rate
+2030	=C$2*B3+C$4	11
+2040	=C$2*B4+C$4	.
+2050	=C$2*B5+C$4	.
+2060	=C$2*B6+C$4	.
+2070	=C$2*B7+C$4	.
+2080	=C$2*B8+C$4	.
+2090	=C$2*B9+C$4	.
+2100	=C$2*B9+C$4	.
+2120	=C$2*B11+C$4	.
+2130	=C$2*B12+C$4	.
+2140	=C$2*B13+C$4	.
+2150	=C$2*B14+C$4	.
+2160	=C$2*B15+C$4	.
+2170	=C$2*B16+C$4	.

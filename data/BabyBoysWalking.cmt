@@ -1,0 +1,11 @@
+# Data Analysis
+#To see whether a program of special stepping and foot-placing exercises for 12 minutes each day could speed up the process of babies learning to walk, 12 baby boys were randomly assigned to the special exercise group or to the exercise control group. For the control group, parents were told to make sure their infant sons exercised at least 12 minutes per day, but they were given no special exercises to use and no other instructions about exercise. The data contains the age, in months, when each baby first walked without help. (Source: Phillip R. Zelazo, Nancy Ann Zelazo, and Sarah Kolb, "Walking in the Newborn," Science 176 (1972): pages 314-315)
+Baby Boys Walking
+dC dC
+Special Exercise	Exercise Control
+9	11
+9.5	10
+9.75	10
+10	11.75
+13	10.5
+9.5	15

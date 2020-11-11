@@ -1,0 +1,13 @@
+# Data Analysis
+#Students at a university hold an annual "Punkin' Droppin'" contest. The goal is to see who can drop pumpkins on a target from the top of a tall campus building. These data show the distances fallen (in feet) at various times during a single drop (in seconds).
+Pumpkin Drop
+C1 C0 
+Time (in sec)	Distance Fallen (in ft)
+0.5	4	
+1.0	15	
+1.5	35	
+2.0	66	
+2.5	103	
+3.0	142	
+3.5	193	
+4.0	259	

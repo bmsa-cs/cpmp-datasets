@@ -1,0 +1,13 @@
+# Data Analysis
+#Road tests under various conditions are likely to produce data like these that show speed (in mph), distance until braking (in feet), and distance until stopping (in feet).
+Braking Road Test
+C0 C0 C0
+Speed (in mph)	Distance until Braking (in ft)	Distance until Stop (in ft)
+10	7	5
+20	15	17
+30	20	37
+40	29	65
+50	36	105
+60	45	150
+70	51	205
+80	58	265

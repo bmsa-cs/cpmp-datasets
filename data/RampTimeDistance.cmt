@@ -1,0 +1,10 @@
+# Data Analysis
+#These data give the time (in seconds) and distance (in meters) travelled for a ball rolling down a stationary ramp. 
+Ramp Time and Distance
+C0 C1 
+Time (in sec)	Distance (in m)
+1	0.5
+2	2.1
+3	4.4
+4	8.1
+5	12.6

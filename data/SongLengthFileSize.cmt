@@ -1,0 +1,16 @@
+# Data Analysis
+#These data show file sizes (in MB) for songs of different lengths (in seconds).
+Song Length and File Size
+C0 C
+Song Length (in sec)	File Size (in MB)
+228	4.103
+223	4.306
+250	5.071
+243	4.835
+278	5.595
+242	4.410
+348	6.975
+316	6.683
+287	5.062
+189	2.846
+209	3.134

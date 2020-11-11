@@ -1,0 +1,15 @@
+# Data Analysis
+#These data show grams of fat and amount of calories in selected fast food items. (Source: www.mcdonalds.com; www.hardees.com; www.wendys.com; www.tacobell.com)
+Selected Fast Food Data
+dL C C
+Item	Grams of Fat	Calories
+McDonald's Premium Bacon Ranch Salad with Grilled Chicken	9	230
+McDonald's Premium Caesar Salad with Grilled Chicken	5	190
+McDonald's McChicken	16	360
+Hardee's Charbroiled Chicken Club Sandwich	31	540
+Hardee's Regular Roast Beef Sandwich	14	290
+Wendy's Small Chili	6	210
+Wendy's Jr. Cheeseburger	13	290
+Wendy's Ultimate Chicken Grill Sandwich	10	390
+Taco Bell's Fresco Chicken Soft Taco	3.5	150
+Taco Bell's Fresco Grilled Steak Soft Taco	4	150

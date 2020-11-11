@@ -1,0 +1,13 @@
+# Data Analysis
+#The New River Gorge Bridge in Fayetteville, West Virginia is 876 feet above the water, and the most daring jumpers at the annual Bridge Day BASE jumping event fall for about 7 seconds and 650 feet until opening their parachutes. A news story about the event included these data relating time in free fall (in seconds) and approximate speed (in miles per hour) of typical divers. (Source: Eli Sarlow, A Heightened Chance of Death, The Washington Post, Sunday, November 4, 2007, A15)
+Free-fall Speed
+C0 dC
+Time (in sec)	Speed (in mph)
+0	0
+1	10.9
+2	31.4
+3	51.8
+4	70.9
+5	84.5
+6	94.1
+7	100.9

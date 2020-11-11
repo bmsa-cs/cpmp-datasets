@@ -1,0 +1,9 @@
+# Data Analysis
+#The table above gives the outcomes from a random sample of 1,000 baseball games.
+Baseball
+L C C C
+A	B	C	D
+	Day Game	Night Game	Total
+Home Team Wins	242	316	558
+Visiting Team Wins	183	259	442
+Total	425	575	1,000

@@ -1,0 +1,10 @@
+# Data Analysis
+#As part of the 2000 census and 2010 census, Hispanic residents of the U.S. were asked to indicate their origin. (Source: The Hispanic Population: 2010, 2010 Census Brief, www.census.gov/prod/cen2010/briefs/c2010br-04.pdf)
+Hispanic Origins
+C C C 
+Origin	2000 Census	2010 Census	
+Mexican	20,640,711	31,798,258	
+Puerto Rican	3,406,178	4,623,716	
+Cuban	1,241,685	1,785,547	
+Other Hispanic	10,017,244	12,270,073	
+Total	35,305,818	50,477,594	

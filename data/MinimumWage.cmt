@@ -1,0 +1,24 @@
+# Data Analysis
+#These data give the federal minimum wage (in dollars) in the United States for the years when Congress passed an increase in the minimum wage. (Source: U.S. Department of Labor)
+Federal Minimum Wage
+iC dC
+Year	Minimum Wage (in $)
+1955	0.75
+1956	1.00
+1961	1.15
+1963	1.25
+1967	1.40
+1968	1.60
+1974	2.00
+1975	2.10
+1978	2.65
+1979	2.90
+1980	3.10
+1981	3.35
+1990	3.80
+1991	4.25
+1996	4.75
+1997	5.15
+2007	5.85
+2008	6.55
+2009	7.25

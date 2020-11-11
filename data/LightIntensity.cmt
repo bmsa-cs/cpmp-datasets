@@ -1,0 +1,13 @@
+# Data Analysis
+#These data compare the distance (in meters) from a light source and illuminance (light per unit area, in luxe).
+Light Intensity
+C1 C2 
+Distance (in m)	Illuminance (in luxe)
+0.5	100.00
+1.0	25.00
+1.5	11.11
+2.0	6.25
+2.5	4.00
+3.0	2.78
+3.5	2.04
+4.0	1.56

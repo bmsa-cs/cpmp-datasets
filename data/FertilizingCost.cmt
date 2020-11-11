@@ -1,0 +1,14 @@
+# Data Analysis
+#These data give the fertilizer cost (in dollars) for circular fields with a variety of different radii (in meters). 
+Fertilizer Costs for Circular Fields
+dC dC 
+Radius (in m)	Fertilizer Cost (in $)
+20	125
+25	170
+40	500
+60	900
+65	1,100
+75	1,700
+80	2,000
+100	3,100
+110	3,600

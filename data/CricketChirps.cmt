@@ -1,0 +1,16 @@
+# Data Analysis
+#The snowy tree cricket is known as the "thermometer cricket" because it is possible to count its chirping rate and to estimate the temperature. Here are the temperatures at various rates of cricket chips.
+Cricket Chirps
+dC	dC
+Temperature (in F)	Chirps per Minute
+50	41
+54	57
+58	78
+61	90
+66	104
+70	120
+75	144
+78	160
+83	178
+86	192
+

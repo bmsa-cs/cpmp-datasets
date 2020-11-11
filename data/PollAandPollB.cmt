@@ -1,0 +1,17 @@
+# Data Analysis
+#The above data sheet shows the results of two polls. Suppose that a polling organization takes a random sample of 100 older U.S. voters and a random sample of 100 younger U.S. voters. The voters are asked whether they approve of the job the president is doing. The results of Poll A are reported in the first table. Another polling organization takes a random sample of 1,000 Republicans and a random sample of 1,000 Democrats and asks the same question. The results of Poll B are reported in the second table.
+Poll A and Poll B
+L C C
+A	B	C
+Poll A		
+	Older	Younger
+Approve	35	30
+Disapprove	65	70
+Total	100	100
+		
+		
+Poll B		
+	Republicans	Democrats
+Approve	350	300
+Disapprove	650	700
+Total	1,000	1,000

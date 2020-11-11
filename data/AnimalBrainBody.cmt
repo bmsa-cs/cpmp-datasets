@@ -1,0 +1,15 @@
+# Data Analysis
+#These data give brain weights (in grams) and body weights (in kilograms) from samples of a variety of species of mammals. 
+Animal Brain and Body Weights
+C dC dC 
+Animal	Brain Weight (in g)	Body Weight (in kg)
+bat	0.936	0.028
+squirrel	3.97	0.183
+skunk	10.3	1.7
+grey monkey	66.6	4.55
+walrus	1,126	667
+horse	618	462
+chimpanzee	440	56.7
+tiger	302	209
+African elephant	5,712	6,654
+blue whale	6,800	58,059

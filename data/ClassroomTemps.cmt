@@ -1,0 +1,26 @@
+# Data Analysis
+#Temperature (¡F) of 4 different classrooms at different time intervals collected for 5 school days.
+#Source:  Navigating through data analysis in Grades 6Ð8 (CD ROM).  Bright, G. (2003).  Reston, VA: NCTM. 
+Classroom Temperatures
+s s iC iC iC iC 
+A	Time	Math Room 203 South	English Room 103 South	Science Room 204 North	Art Room 104 North	
+Day 1	6 a.m.	63	62	62	60	
+.	9 a.m.	66	65	65	65	
+.	noon	69	67	68	68	
+.	3 p.m.	71	72	71	70	
+Day 2	6 a.m.	64	65	63	62	
+.	9 a.m.	67	67	67	66	
+.	noon	70	70	69	70	
+.	3 p.m.	74	73	70	71	
+Day 3	6 a.m.	64	62	61	60	
+.	9 a.m.	68	68	67	65	
+.	noon	72	71	70	71	
+.	3 p.m.	74	72	72	72	
+Day 4	6 a.m.	66	63	64	61	
+.	9 a.m.	70	68	68	66	
+.	noon	75	70	73	71	
+.	3 p.m.	74	71	73	70	
+Day 5	6 a.m.	66	65	64	62	
+.	9 a.m.	69	68	67	67	
+.	noon	74	73	71	71	
+.	3 p.m.	73	74	72	69	

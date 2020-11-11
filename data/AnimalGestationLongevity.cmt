@@ -1,0 +1,19 @@
+# Data Analysis
+#These data show the average gestation time in days and average longevity (life span) in years of animals. (Source: World Almanac and Book of Facts 2012. Mahwah, NJ: World Almanac, 2012.)
+Animal Gestation Time and Longevity
+C C0 C0
+Animal	Gestation Time (in days)	Avg. Longevity (in years)
+baboon	187	20
+black bear	219	18
+beaver	105	5
+bison	285	15
+cat	63	12
+chimpanzee	230	20
+cow	284	15
+dog	61	12
+elephant (African)	660	35
+fox (red)	52	7
+goat	151	8
+lion	100	15
+sheep	154	12
+wolf	63	5

@@ -1,0 +1,9 @@
+# Data Analysis
+#Post-traumatic stress disorder (PTSD) is a highly anxious state that can develop after exposure to psychological trauma. Researchers at the U.S. Department of Veterans Affairs (VA) collected data on 852 veterans who screened positive for PTSD. The table above shows some of their results; in particular, whether a veteran received minimally adequate treatment (MAT) or not. Consider these a random sample of all veterans diagnosed with PTSD. (Source: Mary W. Lu, et al. "Correlates of Utilization of PTSD Specialty Treatment Among Recently Diagnosed Veterans at the VA," Psychiatric Services, Vol. 62, 2011, pp. 943Ð949. Frequencies estimated from percentages.)
+Veterans and PTSD
+L C C C
+A	B	C	D
+	Received MAT	Did Not Receive MAT	Total
+Served In Iraq or Afghanistan	115	280	395
+Served Elsewhere	165	292	457
+Total	280	572	852

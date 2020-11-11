@@ -1,0 +1,11 @@
+# Data Analysis
+#  
+Bacteria Growth II
+iC R0 C3
+Time (in hours)	Bacteria Count	Log of Bacteria Count	
+0	25	.
+1	=B1*2^(A2-A1)	.
+3	=B2*2^(A3-A2)	.
+5	=B3*2^(A4-A3)	.
+10	=B4*2^(A5-A4)	.
+20	=B5*2^(A6-A5)	.

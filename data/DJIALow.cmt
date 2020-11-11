@@ -1,0 +1,14 @@
+# Data Analysis
+#These data provide a history of the Dow Jones Industrial Average low in selected years from 1965 to 2005. (Source: www.analyzeindices.com/dow-jones-history.shtml)
+DJIA Low
+sC iC iC
+Year	Years since 1965	DJIA Low
+1965	0	841
+1970	5	631
+1975	10	632
+1980	15	759
+1985	20	1,185
+1990	25	2,365
+1995	30	3,832
+2000	35	9,796
+2005	40	10,012
