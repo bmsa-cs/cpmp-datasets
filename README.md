@@ -14,9 +14,9 @@ Essentially, this boiled down to removing the "header" information from the cmt 
 iC dC dC
 ```
 
-Eventually, this information will be used to generate an index of all of the datasets to be used alongside the tsv files.
+This information is used to generate an index of all of the datasets in the tsv folder.
 
-You can generate the `.tsv` files for yourself by using the included `converter.py`.
+You can generate the `.tsv` files and [tsv/README.md](tsv/README.md) for yourself by using the included `converter.py`.
 
 ## License
 
