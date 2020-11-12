@@ -9,11 +9,6 @@ import os
 import csv
 import json
 
-data_folder = os.path.abspath('../data/')
-out_folder = os.path.abspath('../tsv')
-
-dir_list = os.listdir(data_folder)
-
 def process_cmt(cmt_file):
     """Given an open cmt_file, process the rows and return the title, description, and out_rows."""
 
@@ -40,7 +35,8 @@ def process_cmt(cmt_file):
     return title, description, out_rows
 
 def build_documentation_string(title, description, filename):
-    return f"## {title}\nFile: {filename}\nDescription:{description}\n\n"
+    description = description.replace("\n","\n\n")
+    return f"## {title}\n\nFile: {filename}\n\nDescription:{description}\n"
 
 # def get_course_from_title(title):
 #     """
@@ -55,6 +51,12 @@ def build_documentation_string(title, description, filename):
 #     return "N/A"
 
 if __name__ == "__main__":
+    data_folder = os.path.abspath('../data/')
+    out_folder = os.path.abspath('../tsv')
+
+    dir_list = os.listdir(data_folder)
+    dir_list = sorted(dir_list)
+    
     documentation = "# Filelist\n\n"
 
     # UNUSED: Titles don't match the ones in the files.
@@ -78,5 +80,5 @@ if __name__ == "__main__":
                 writer.writerows(out_rows)
     
     
-    with open(os.path.join(out_folder, "DATASETS.md"), 'w') as dataset_file:
+    with open(os.path.join(out_folder, "README.md"), 'w') as dataset_file:
         dataset_file.write(documentation)
