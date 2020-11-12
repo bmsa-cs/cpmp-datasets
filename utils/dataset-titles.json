@@ -1,0 +1,158 @@
+{
+    "c1": {
+        "u1": {
+            "name": "Patterns of Change",
+            "explorations": [
+                "Major U.S. City Populations",
+                "Manatee Watercraft Mortalities",
+                "All Manatee Mortalities"
+            ]
+        },
+        "u2": {
+            "name": "Patterns in Data",
+            "explorations": [
+                "Hamburger Nutrition I",
+                "Best Actress",
+                "Mean Hourly Earnings",
+                "Min and Max Temperatures",
+                "Vertical Jumps",
+                "Number of Video Games",
+                "Ratings of Movie Showings",
+                "Fastest-Growing Franchises",
+                "Blood Lead Levels",
+                "Heights of Young Adults",
+                "Achievement Test Scores",
+                "January Sunshine",
+                "Sunshine for All Months",
+                "Concord and Portland Precipitation",
+                "Number of Marriages",
+                "Study Time",
+                "Walking Speeds",
+                "2000 State Motorcycle Statistics"
+            ]
+        },
+        "u3": {
+            "name": "Linear Functions",
+            "explorations": [
+                "Flights to/from Chicago",
+                "Los Angeles Flight Alt. and Temp.",
+                "Riverdale Adventure Club",
+                "Cricket Chirps",
+                "Selected Fast Food",
+                "Median Income",
+                "Taking Chances",
+                "Men's 100-meter Run",
+                "Women's 100-meter Run",
+                "100-meter Freestyle",
+                "Health and Nutrition"
+            ]
+        },
+        "u5": {
+            "name": "Exponential Functions",
+            "explorations": [
+                "Dow Jones Averages",
+                "Voters in U.S. Elections",
+                "Cold Surgery",
+                "Surgery Time and Cost"
+            ]
+        }
+    },
+    "c2": {
+        "u4": {
+            "name": "Regression and Correlation",
+            "explorations": [
+                "Hamburger Nutrition II",
+                "Compact Cars",
+                "Radioactive Waste Exposure",
+                "Horse Stride",
+                "Chicago White Sox",
+                "Baseball Averages",
+                "Marriage/Divorce Rates",
+                "Hippos",
+                "Tree Ages",
+                "Canines",
+                "Federal Minimum Wage",
+                "Seal Sizes",
+                "Peak Cherry Tree Blooming",
+                "Crawling Age",
+                "Land Use"
+            ]
+        }
+    },
+    "c3": {
+        "u1": {
+            "name": "Reasoning and Proof",
+            "explorations": [
+                "Smell Test",
+                "Penny Stacking Classes",
+                "Plant Growth",
+                "Instructor Attributes",
+                "Mozart/Silence",
+                "Baby Boys Walking"
+            ]
+        },
+        "u4": {
+            "name": "Samples and Variation",
+            "explorations": [
+                "Certificate Perimeters",
+                "Nickel Weights",
+                "Dissolution Times",
+                "PSU Women's Heights",
+                "Los Angeles Rainfall",
+                "Non-Normal Distribution",
+                "Apartment Temperatures",
+                "Manufactured Nails",
+                "Gas Mileage"
+            ]
+        }
+    },
+    "c4": {
+        "u3": {
+            "name": "Algebraic Functions and Equations",
+            "explorations": [
+                "Optimal Foraging"
+            ]
+        },
+        "u5": {
+            "name": "Exp Fns, Logs and Modeling",
+            "explorations": [
+                "U.S. Census",
+                "Leg and Stride Length",
+                "Free-fall Speed",
+                "Hamburger Nutrition III",
+                "Fertilizer Cost",
+                "Braking Road Test",
+                "Satellite Radio",
+                "Bacteria Growth I",
+                "Bacteria Growth II",
+                "Radioactive Isotope",
+                "U.S. Public Debt",
+                "AIDS Fatalities in the U.S.",
+                "Planet Orbits (mi)",
+                "Light Intensity",
+                "Planet Orbits (km)",
+                "Sphere Radius and Surface Area",
+                "Ramp Time and Distance",
+                "Altitude/Atmospheric Pressure",
+                "Animal Brain and Body Weights",
+                "Cumulative AIDS Deaths",
+                "Nonlinear Values I",
+                "Nonlinear Values II",
+                "Sphere Surface Area and Volume",
+                "Nonlinear Values III",
+                "World Population",
+                "Ramp Height and Time",
+                "Car Skid Marks"
+            ]
+        },
+        "u6": {
+            "name": "Surfaces and Cross Sections",
+            "explorations": [
+                "NASA Pioneer",
+                "Equatorial Venus",
+                "Mars",
+                "Terrain Elevations"
+            ]
+        }
+    }
+}
