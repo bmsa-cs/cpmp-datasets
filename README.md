@@ -1,12 +1,12 @@
 # cpmp-datasets
 
-Datasets from [CPMP-Tools](https://www.core-plusmath.org/CPMP-Tools/) extracted and reformatted as .tsv files for use in other applications.
+Datasets from Core-Plus Mathematics's [CPMP-Tools](http://www.core-plusmath.org/CPMP-Tools/) extracted and reformatted as .tsv files for use in other applications.
 
 ## Usage
 All of the original `.cmt` files from CPMP-Tools 4.0 have been included in the `data` folder.
-The new, converted `.tsv` files are in the `tsv/` folder.
+The new, converted `.tsv` files are in the `tsv` folder.
 
-Essentially, this boiled down to removing the "header" information from the cmt files:
+Essentially, this boiled down to removing the "header" information from the top of the .cmt files:
 ```
 # Data Analysis
 #These data contain winning times (in seconds) for women and men in the Olympic 100-meter freestyle swim for games since 1912. (Source: www.olympic.org)
@@ -16,7 +16,7 @@ iC dC dC
 
 This information is used to generate an index of all of the datasets in the tsv folder.
 
-You can generate the `.tsv` files and [tsv/README.md](tsv/README.md) for yourself by using the included `converter.py`.
+You can generate the `.tsv` files and [tsv/README.md](tsv/README.md) for yourself by running the included `converter.py` from the `utils` directory.
 
 ## License
 
